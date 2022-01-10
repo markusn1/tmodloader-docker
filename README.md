@@ -1,4 +1,4 @@
-# tModLoader Docker ![tMod Version] ![Terraria Version]  [![Docker Pulls]][0]
+# tModLoader Docker ![tMod Version] ![Terraria Version]
 
 [tModLoader] dedicated server  
 
@@ -27,10 +27,5 @@ Terraria server 1.3.5.3 with tModLoader v0.11.8.5.
 [commands]: https://terraria.gamepedia.com/Server#List_of_console_commands
 [tMod Version]: https://img.shields.io/badge/tMod-0.11.8.5-blue
 [Terraria Version]: https://img.shields.io/badge/Terraria-1.3.5.3-blue
-[Docker Stars]: https://img.shields.io/docker/stars/rfvgyhn/tmodloader.svg
-[Docker Pulls]: https://img.shields.io/docker/pulls/rfvgyhn/tmodloader.svg
-[default]: https://github.com/Rfvgyhn/tmodloader-docker/blob/master/config.txt
 [directly]: https://github.com/tModLoader/tModLoader/wiki/Mod-Browser#direct-download
 [Environment Variables]: #environment-variables
-[game-manager]: https://hub.docker.com/r/rfvgyhn/game-manager/
-[0]: https://hub.docker.com/r/rfvgyhn/tmodloader
